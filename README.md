@@ -1,5 +1,7 @@
 # Tyler's Personal Site
 
+https://talfreds.github.io/startbootstrap-clean-blog/
+
 # [Start Bootstrap - Clean Blog](https://startbootstrap.com/template-overviews/clean-blog/)
 
 ## Preview (of unmodified page)
