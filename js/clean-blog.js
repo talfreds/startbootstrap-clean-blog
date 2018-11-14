@@ -12,6 +12,7 @@
 
   // Show the navbar when the page is scrolled up
   var MQL = 992;
+//  var port = process.env.PORT;
 
   //primary navigation slide-in effect
   if ($(window).width() > MQL) {
