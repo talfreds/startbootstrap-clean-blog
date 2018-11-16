@@ -1,6 +1,8 @@
 var connect = require('connect');
 var serveStatic = require('serve-static');
 var favicon = require('serve-favicon');
+var express = require('express')
+app = express();
 
 app.use(favicon(__dirname + '/img/favicon.ico'));
 
